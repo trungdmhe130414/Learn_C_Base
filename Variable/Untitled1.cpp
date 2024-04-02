@@ -33,5 +33,6 @@ int main(){
 //	int b = a >= 18;
 //	printf("%d" , b );
 // https://www.youtube.com/watch?v=vpqMmfkSAMo&list=PLux-_phi0Rz2TB5D16sJzy3MgOht3IlND&index=1&ab_channel=28tech
+ 
 	return 0;
 }
